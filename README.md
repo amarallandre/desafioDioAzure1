@@ -8,7 +8,35 @@ Praticar a criação e configuração de uma VM na Azure;
 
 Documentar de forma clara o processo realizado;
 
-Utilizar o GitHub como ferramenta de apoio para compartilhar e versionar esse material técnico.
+Criando uma conta gratuita na Azure
+
+🆓 Criando uma Conta Gratuita na Azure
+
+Acesse:
+
+Vá até o site oficial: https://azure.microsoft.com/pt-br/free
+
+Clique em "Comece gratuitamente"
+
+Você será redirecionado para fazer login com sua conta Microsoft (ou criar uma, se ainda não tiver).
+
+Verificação de identidade:
+
+Será necessário informar um número de telefone válido e um cartão de crédito (apenas para verificação, sem cobranças).
+
+Plano Gratuito:
+Você recebe R$ 1.000 em créditos por 30 dias
+
+Após isso, pode continuar com os serviços gratuitos incluídos, como uso limitado de VMs, banco de dados, armazenamento, etc.
+
+Plano para Estudantes (opcional):
+Se for estudante, acesse: https://azure.microsoft.com/pt-br/free/students/
+
+Não precisa de cartão de crédito.
+
+
+
+Oferece créditos e serviços gratuitos voltados ao aprendizado.
 
 🛠️ Passo a Passo: Criando uma VM na Azure
 
@@ -54,20 +82,3 @@ Linux: ssh usuario@ip_da_vm
 
 Windows: Usar o cliente de RDP
 
-🧠 Dicas Úteis
-
-Use Resource Groups para organizar seus recursos;
-
-Configure regras de firewall corretamente para acesso seguro;
-
-Lembre-se de desligar ou excluir a VM após o uso para evitar cobranças;
-
-Monitore sua VM usando Azure Monitor.
-
-📝 Recursos e Anotações Adicionais
-
-Documentação oficial da Azure - Máquinas Virtuais
-
-Azure para Estudantes
-
-Comandos úteis para Linux/Windows na VM
